@@ -1,12 +1,15 @@
-# React + Vite
+# Cafeneon — Site de Cafeteria
+Cafeneon é um site responsivo criado para uma cafeteria fictícia, que utiliza um vídeo de fundo full screen para proporcionar maior impacto visual e envolver o visitante desde o primeiro contato. Desenvolvido com React e Tailwind CSS, o projeto apresenta um design elegante com seções informativas, navegação simples e botões de ação que convidam o usuário a explorar o cardápio e conhecer mais sobre o ambiente.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Além disso, conta com uma funcionalidade de mapa integrado via Google Maps para mostrar a localização da cafeteria, acessível através de um modal intuitivo. O layout é pensado para funcionar perfeitamente em diferentes tamanhos de tela, priorizando usabilidade e estética.
 
-Currently, two official plugins are available:
+## Funcionalidades principais
+- Vídeo de fundo full screen para maior impacto visual.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Navegação clara e simples com links para menu, contato e localização.
 
-## Expanding the ESLint configuration
+- Modal interativo com mapa Google Maps embutido.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Botões de Login e Cadastro com estilo personalizado.
+
+- Layout responsivo para desktop, tablet e mobile.
